@@ -1,4 +1,4 @@
-const city = 'Miscow';
+const city = 'Moscow';
 const apiKey = '4b1df8531349a7b7dd4b6d88c9c6e1a3';
 
 const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
